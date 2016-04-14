@@ -2835,51 +2835,6 @@
     "HIV screening":"yes",
     "complete laboratory services":"yes"
     }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "ID":null,
-    "Name":"",
-    "hospital":"",
-    "urgentcare":"",
-    "familycare":"",
-    "State":"",
-    "City":"",
-    "Street_Zip":null,
-    "Street_Add":"",
-    "Phone":"",
-    "Acute_Care":"",
-    "Medical_Su":"",
-    "Critical_A":"",
-    "Ambulatory":"",
-    "Childrens":"",
-    "Psych_Care":"",
-    "Psych_Only":"",
-    "Specialty":"",
-    "Sole_Commu":"",
-    "SNF_Care_A":"",
-    "Nursing_Ho":"",
-    "Substance":"",
-    "Rehab_Only":"",
-    "Sub_Acute":"",
-    "Long_Term":"",
-    "Rehab_Care":"",
-    "x-rays":"",
-    "lab tests":"",
-    "eye injuries":"",
-    "Fractures":"",
-    "24hours":"",
-    "flu shots":"",
-    "vaccinations":"",
-    "health screening":"",
-    "HIV screening":"",
-    "complete laboratory services":""
-    }
   }
 ]
 }
